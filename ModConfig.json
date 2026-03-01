@@ -1,0 +1,48 @@
+{
+  "ModId": "fftivc.bard.dancer.crossover",
+  "ModName": "FFT TIC Bard and Dancer Crossover",
+  "ModAuthor": "NotARobot0010",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Grants reaction and movement abilities from Bard to Dancer and Dancer to Bard. Moves Fly to Geomancer to make room for abilities.",
+  "ModDll": "",
+  "ModIcon": "bard_dancer_mod.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [
+    "Jobs"
+  ],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "fftivc.bard.dancer.crossover.ReleaseMetadata.json",
+  "IgnoreRegexes": [
+    ".*\\.json",
+    "fftivc\\.bard\\.dancer\\.crossover\\.nuspec"
+  ],
+  "IncludeRegexes": [
+    "\\.deps\\.json",
+    "\\.runtimeconfig\\.json",
+    "ModConfig\\.json",
+    "ModConfig\\.json",
+    "ModConfig\\.json"
+  ],
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "notarobot0010",
+      "RepositoryName": "fftivc.bard.dancer.enhancements",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "fftivc.utility.modloader"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "fft_enhanced.exe"
+  ],
+  "ProjectUrl": ""
+}
